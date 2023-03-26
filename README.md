@@ -1,4 +1,4 @@
-# bigquery-db-etl
+# bigquery-to-postgres-etl
 
 Stage 1 (Extract - Load)
 [ Source --> BQ, Destination --> Postgres]
