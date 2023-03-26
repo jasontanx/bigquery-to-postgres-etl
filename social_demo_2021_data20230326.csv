@@ -1,0 +1,22 @@
+,variable,variable_en,variable_bm,sex,year,mean,median,recipients,insert_date
+0,indian,Indian,India,overall,2021,2913.5,1930,738700,2023-02-16 07:01:21.369167
+1,indian,Indian,India,male,2021,3068.7,2057,434400,2023-02-16 07:01:21.369167
+2,indian,Indian,India,female,2021,2692,1803,304200,2023-02-16 07:01:21.369167
+3,chinese,Chinese,Cina,overall,2021,3487.8,2734,2277100,2023-02-16 07:01:21.369167
+4,chinese,Chinese,Cina,male,2021,3615.6,2886,1278700,2023-02-16 07:01:21.369167
+5,chinese,Chinese,Cina,female,2021,3324.2,2499,998400,2023-02-16 07:01:21.369167
+6,citizen,Citizen,Warganegara,overall,2021,3036.9,2250,9711900,2023-02-16 07:01:21.369167
+7,citizen,Citizen,Warganegara,male,2021,3084.7,2315,5733900,2023-02-16 07:01:21.369167
+8,citizen,Citizen,Warganegara,female,2021,2968.1,2145,3978000,2023-02-16 07:01:21.369167
+9,overall,Overall,Keseluruhan,overall,2021,2843.6,1984,11164900,2023-02-16 07:01:21.369167
+10,overall,Overall,Keseluruhan,male,2021,2865.6,2027,6731200,2023-02-16 07:01:21.369167
+11,overall,Overall,Keseluruhan,female,2021,2810.2,1929,4433700,2023-02-16 07:01:21.369167
+12,bumiputera,Bumiputera,Bumiputera,overall,2021,2902.6,2127,6641300,2023-02-16 07:01:21.369167
+13,bumiputera,Bumiputera,Bumiputera,male,2021,2923.1,2167,3986500,2023-02-16 07:01:21.369167
+14,bumiputera,Bumiputera,Bumiputera,female,2021,2871.7,1999,2654700,2023-02-16 07:01:21.369167
+15,other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2021,2244.9,1582,54800,2023-02-16 07:01:21.369167
+16,other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2021,2268.7,1642,34300,2023-02-16 07:01:21.369167
+17,other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2021,2205.3,1340,20600,2023-02-16 07:01:21.369167
+18,other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2021,1551.5,1339,1453000,2023-02-16 07:01:21.369167
+19,other_noncitizen,Non-Citizen,Bukan Warganegara,male,2021,1606.1,1412,997300,2023-02-16 07:01:21.369167
+20,other_noncitizen,Non-Citizen,Bukan Warganegara,female,2021,1431.9,1220,455700,2023-02-16 07:01:21.369167
