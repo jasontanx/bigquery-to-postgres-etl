@@ -5,6 +5,8 @@ services:
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=root
       - POSTGRES_DB=ny_taxi
+    volumes:
+      - "pgadmin_conn_data:/var/lib/pgadmin:rw"
     ports:
       - "5432:5432"
   pgadmin:
