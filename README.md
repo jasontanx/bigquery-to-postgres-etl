@@ -11,3 +11,11 @@ ETL --> (Extract - Load)
 2. Save queried output into dataframe and output data as csv format
 3. Ingest data into Postgres DB with new file name
 
+
+**Extra Information**
+
+1. Docker Compose tutorial (to run postgresql)
+
+--> [DE Zoomcamp 1.2.5 - Running Postgres and pgAdmin with Docker-Compose](https://www.youtube.com/watch?v=hKI6PkPhpa0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=9)
+
+
