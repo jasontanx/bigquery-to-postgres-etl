@@ -29,8 +29,9 @@ ETL --> (Extract - Load)
 2. Save queried output into dataframe and output data as csv format
 3. Ingest data into Postgres DB with new file name
 
-**Outcome**
+**Final Outcome**
 
+![image](https://user-images.githubusercontent.com/116934441/229813264-e66a18ec-b191-44b3-b3f0-ff384a73ce70.png)
 
 **Extra Information**
 
