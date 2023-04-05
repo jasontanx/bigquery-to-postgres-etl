@@ -2,7 +2,7 @@
 
 ETL --> (Extract - Load)
 
-[ Source --> BQ, Destination --> Postgres]
+[ Source --> BigQuery, Destination --> Postgres]
 
 ![image](https://user-images.githubusercontent.com/116934441/227949498-df847c06-6865-40bc-b434-59996e28de93.png)
 
